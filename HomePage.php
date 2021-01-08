@@ -134,7 +134,7 @@
                             <span class="remenber-me">Remember me </span>
                         </div>
                         <div class="right-side-forget">
-                            <a href="#" class="for">Forgot password...?</a>
+                            <a href="#" class="for">Forgo password...?</a>
                         </div>
                     </div>
                     <div class="btnn">
